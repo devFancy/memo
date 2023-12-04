@@ -92,4 +92,4 @@ for(int i = 0; i < tvArr.length; i++) {
 
 ## Reference
 
-* [Java의 정석](http://www.yes24.com/Product/Goods/24259565)
+- [Java의 정석](http://www.yes24.com/Product/Goods/24259565)

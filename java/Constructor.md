@@ -83,3 +83,7 @@ class Car {
 > ‘this’로 인스턴스 변수에 접근할 수 있는 것이다. 단, 인스턴스 변수에만 접근이 가능하다.
 >
 > this(), this(매개변수) - 같은 클래스의 다른 생성자를 호출할 때 사용한다.
+
+## Reference
+
+* [Java의 정석](http://www.yes24.com/Product/Goods/24259565)
